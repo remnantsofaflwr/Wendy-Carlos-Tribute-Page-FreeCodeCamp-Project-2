@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+}
+
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+ ul li {
+    margin-bottom: 25px;
+}
+
+image {
+ max-width: 100%;
+ height: auto;
+ display:block;
+}
+
+footer {
+    padding-top: 2.5%;
+}
