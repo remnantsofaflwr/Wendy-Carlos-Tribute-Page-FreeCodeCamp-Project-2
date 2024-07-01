@@ -1,0 +1,1 @@
+This is my project for the FreeCodeCamp 2nd Project in the Responsive Web Design Certification. I created a tribute page to a transgender pioneer in the music/synthesizer world named Wendy carlos. This is written in HTML with CSS.
